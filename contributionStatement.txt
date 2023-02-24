@@ -1,0 +1,13 @@
+This is the contribution statement of group 19. Everyone has more or less contributed
+equally on the parts of the report that don't touch the specific classification models.
+(eg. Conclusion, Abstract, Introduction, etc)
+
+Hampus: Has written the logistic regression model, helped with data analysis task,
+        written parts of the report.
+        
+Yashas: Has written the classification tree model, helped with data analysis task,
+        written parts of the report.
+
+Ludvig: Has written the LDA and QDA model, helped with data analysis task, written parts of the report.
+
+Sebastian: Has written the boosting model, the code for cross validation technique,the code for the feature selection, the code for choosing a production model and the small utils code, written parts of the report. 
